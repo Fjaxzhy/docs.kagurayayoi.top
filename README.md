@@ -144,5 +144,3 @@ description: 这里是弥生神乐的诸多世界线的其中一个世界线哒
 * BiliBili: [KaguraYayoi](https://space.bilibili.com/157623239)
 * Telegram: [@kagurayayoi](https://t.me/kagurayayoi)  \(最近不怎么上\)
 
-{% page-ref page="./" %}
-
